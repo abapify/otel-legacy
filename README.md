@@ -1,4 +1,4 @@
-# Otel S4 plugins
+# Otel On-prem plugins
 
 > Not compatible with a cloud
 >
